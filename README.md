@@ -4,7 +4,13 @@
 
 An AI-powered adaptive traffic signal control system that uses Reinforcement Learning (RL) to optimize traffic flow at signalized intersections. The project implements and compares Q-Learning, Deep Q-Network (DQN), and Proximal Policy Optimization (PPO) against traditional traffic signal controllers using the SUMO microscopic traffic simulator.
 
+<h2 align="center">🎥 Watch Project Demo</h2>
 
+<p align="center">
+  <a href="https://youtu.be/ToowokQjo6A">
+    <img src="https://img.youtube.com/vi/ToowokQjo6A/maxresdefault.jpg" width="700">
+  </a>
+</p>
 
 ## 📌 Project Overview
 
