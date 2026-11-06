@@ -9,6 +9,7 @@ An AI-powered adaptive traffic signal control system that uses Reinforcement Lea
 ## 🎥 Demo Video
 
 Change the video quality to 720p before watching 
+
 [▶️ Watch Project Demo](https://youtu.be/3qQvzEAHgMo)
 
 ## 📌 Project Overview
