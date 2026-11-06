@@ -8,7 +8,6 @@ An AI-powered adaptive traffic signal control system that uses Reinforcement Lea
 
 <p align="center">
   <a href="https://youtu.be/ToowokQjo6A">
-    <img src="https://img.youtube.com/vi/ToowokQjo6A/maxresdefault.jpg" width="700">
   </a>
 </p>
 
